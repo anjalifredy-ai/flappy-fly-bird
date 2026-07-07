@@ -1,4 +1,4 @@
-# flappy-fly-bird [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# BIRD GAME [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 [![Language](https://img.shields.io/badge/Language-Swift_5.7-orange.svg)]()
 [![Framework](https://img.shields.io/badge/Framework-SpriteKit-red.svg)]()
@@ -15,7 +15,7 @@
 ### If you like the project, please give it a star ⭐ It will show the creator your appreciation and help others to discover the repo.
 
 # ✍️ About 
-🐦 `Flappy Fly-Bird` is an `iOS/SpriteKit` game written using the latest verion of `Swift` programming language and `GameplayKit`. 
+🐦 `BIRD GAME` is an `iOS/SpriteKit` game written using the latest verion of `Swift` programming language and `GameplayKit`. 
 
 # 📺 Demo 
 
@@ -36,7 +36,7 @@ Please wait while the `.gif` files are loading...
 There were used graphical resources such as `audio`, `music` and `images`. Those resources are for non commercial use. If you want to reuse the developments in your projects you **must remove all the assets**.
 
 # 👻 Features
-- Supports both `iPhone` & `iPad` devices
+- Supports both `iPhone` & `iPad/ANDROID` devices
 - Multiple, animated, selectable characters
 - Minimum deployment target is `iOS 11.3`
 - `Swift 5.0`
