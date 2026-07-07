@@ -1,4 +1,4 @@
-# BIRD GAME [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# BIRD GAME by remon [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 [![Language](https://img.shields.io/badge/Language-Swift_5.7-orange.svg)]()
 [![Framework](https://img.shields.io/badge/Framework-SpriteKit-red.svg)]()
@@ -94,7 +94,8 @@ There were used graphical resources such as `audio`, `music` and `images`. Those
 - [x] Setting for game `Difficulty` 
 
 # 👨‍💻 Author 
-[Astemir Eleev](https://github.com/jVirus)
+REMON FRANCIS
 
 # 🔖 Licence
 The project is availabe under the [BSD 3-Clause "New" or "Revised" License](https://github.com/jVirus/ios-spritekit-flappy-flying-bird/blob/master/LICENSE). Remember: you must not use any of the `assets` in commercial purposes.
+    ALSO AVAILABLE FOR ANDROID 
